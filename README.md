@@ -1,2 +1,2 @@
 # python-intro
-# python-exemples
+# python-examples
